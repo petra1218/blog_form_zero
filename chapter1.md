@@ -1,3 +1,4 @@
-# First Chapter
+# 到哪去
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+还没想好会做到什么程序，走一步算一步吧。
+坚持就是胜利！
