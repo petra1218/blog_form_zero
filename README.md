@@ -1,4 +1,4 @@
-# 从哪来
+# 从哪来、到哪去
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
@@ -6,7 +6,11 @@ This file file serves as your book's preface, a great place to describe your boo
 
 做为一个杂烩程序员，虽然可以用现成的网站框架直接堆出一个个人主页来，但是又想在那一星半点的Web知识上，把杂烩再丰富一些。所以打算从零开始写个人网站。
 
-做为一个记忆力衰退的中老年人，怕是还没等网站成形，连最开始想干什么都忘了，所以我打算把建站过程写下来，至于能成什么样，再说。
+做为一个记忆力衰退的中老年人，怕是还没等网站成形，连最开始想干什么都忘了，所以我打算把建站过程写下来，至于能成什么样，再说！
+
+这只是一篇游记，收藏着我的主页从无到有的点点滴滴，包括碎嘴！！！
+
+坚持就是胜利！
 
 祝我成功！
 
