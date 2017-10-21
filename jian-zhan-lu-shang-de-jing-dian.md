@@ -4,8 +4,13 @@
  经过海选，主页技术方案基本确定，说白了就是静态页面加上渲染，后期考虑兼容移动设备，升华后接入移动应用+简单的动态服务。
  后面我将会遇到：
  
+    Virtualenv
     Flask
     Flask-FlatPages
+    CSS
+    HTML5
+    HTML模板
+    Markdown
     JavaScript
     JQuery
     Bootstrap
@@ -13,3 +18,5 @@
     tengine
     uWSGI
     MongoDB
+    微信订阅
+    AndroidApp接入
