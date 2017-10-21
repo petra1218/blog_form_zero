@@ -3,4 +3,5 @@
 * [从哪来、到哪去](README.md)
 * [从配置ubuntu开发环境到放弃](xu-ni-huan-jing.md)
 * [让flask运行起来](rang-flask-yun-xing-qi-lai.md)
+* [建站路上的景点](jian-zhan-lu-shang-de-jing-dian.md)
 
